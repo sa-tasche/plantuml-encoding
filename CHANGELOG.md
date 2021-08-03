@@ -3,87 +3,75 @@
 <!-- changelog-linker -->
 
 <!-- dumped content start -->
-## [v1.0.8] - 2020-10-01
 
-- [#10] Cleaning repo, .gitattributes and improving README.md
-- [#12] Remove any Phive reference. Closes [#11]
+## [Unreleased](https://github.com/sa-tasche/plantuml-encoding/compare/1.0.8...HEAD)
 
-## [v1.0.7] - 2019-09-16
+### Added
 
-* [#9] Updating documentation
+*   **BREAKING** Cleaning repo & improving README.md. [a49b645](https://github.com/sa-tasche/plantuml-encoding/commit/a49b645d9dbe11d89b115d94c860a0d272ce3a1d) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #10 from jawira/cleaning-gitattributes. [8935130](https://github.com/sa-tasche/plantuml-encoding/commit/89351302cbcf4a32694f5e7dc30b7a94c9844513) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Remove any Phive reference. Closes #11. [0fac160](https://github.com/sa-tasche/plantuml-encoding/commit/0fac16059d411e803d9aaf1a0260efa244b256a1) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #12 from jawira/remove-phive. [df65624](https://github.com/sa-tasche/plantuml-encoding/commit/df6562457c272658b50e98a05daab3640be85ebf) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Prepare for v1.0.8. [cd9e39e](https://github.com/sa-tasche/plantuml-encoding/commit/cd9e39eb95c682f6b15edb6c6f39253321628592) by [@jawira](https://github.com/jawira)
 
-## [v1.0.6] - 2019-02-08
+### Changed
 
-* pds/skeleton badge in [README.adoc]().
-* [#8] waffle.io badge in [README.adoc]().
-* PhpDoc comments for all PlantUml functions.
-* [#7] [.gitattributes]() file to omit unnecessary files when downloading zip.
-* Added _zlib extension_ constraint to [composer.json]().
+*   **BREAKING** Cleaning repo & improving README.md. [a49b645](https://github.com/sa-tasche/plantuml-encoding/commit/a49b645d9dbe11d89b115d94c860a0d272ce3a1d) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #10 from jawira/cleaning-gitattributes. [8935130](https://github.com/sa-tasche/plantuml-encoding/commit/89351302cbcf4a32694f5e7dc30b7a94c9844513) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Remove any Phive reference. Closes #11. [0fac160](https://github.com/sa-tasche/plantuml-encoding/commit/0fac16059d411e803d9aaf1a0260efa244b256a1) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #12 from jawira/remove-phive. [df65624](https://github.com/sa-tasche/plantuml-encoding/commit/df6562457c272658b50e98a05daab3640be85ebf) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Prepare for v1.0.8. [cd9e39e](https://github.com/sa-tasche/plantuml-encoding/commit/cd9e39eb95c682f6b15edb6c6f39253321628592) by [@jawira](https://github.com/jawira)
 
-## [v1.0.5] - 2018-03-26
+### Deprecated
 
-* Lowering PHP minimum version in composer.json
-* Fixed double pipe range (||) for php version in composer.json
+*   **BREAKING** Cleaning repo & improving README.md. [a49b645](https://github.com/sa-tasche/plantuml-encoding/commit/a49b645d9dbe11d89b115d94c860a0d272ce3a1d) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #10 from jawira/cleaning-gitattributes. [8935130](https://github.com/sa-tasche/plantuml-encoding/commit/89351302cbcf4a32694f5e7dc30b7a94c9844513) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Remove any Phive reference. Closes #11. [0fac160](https://github.com/sa-tasche/plantuml-encoding/commit/0fac16059d411e803d9aaf1a0260efa244b256a1) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #12 from jawira/remove-phive. [df65624](https://github.com/sa-tasche/plantuml-encoding/commit/df6562457c272658b50e98a05daab3640be85ebf) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Prepare for v1.0.8. [cd9e39e](https://github.com/sa-tasche/plantuml-encoding/commit/cd9e39eb95c682f6b15edb6c6f39253321628592) by [@jawira](https://github.com/jawira)
 
-## [v1.0.4] - 2018-03-26
+### Removed
 
-* [#4] Changes PHP requirement to include more versions.
-* An example script has been modified to show how to use full function's 
-namespace. This is required for versions < PHP 5.6.
-* Improving Readme file.
-* Removing typo in `resources` dir.
+*   **BREAKING** Cleaning repo & improving README.md. [a49b645](https://github.com/sa-tasche/plantuml-encoding/commit/a49b645d9dbe11d89b115d94c860a0d272ce3a1d) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #10 from jawira/cleaning-gitattributes. [8935130](https://github.com/sa-tasche/plantuml-encoding/commit/89351302cbcf4a32694f5e7dc30b7a94c9844513) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Remove any Phive reference. Closes #11. [0fac160](https://github.com/sa-tasche/plantuml-encoding/commit/0fac16059d411e803d9aaf1a0260efa244b256a1) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #12 from jawira/remove-phive. [df65624](https://github.com/sa-tasche/plantuml-encoding/commit/df6562457c272658b50e98a05daab3640be85ebf) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Prepare for v1.0.8. [cd9e39e](https://github.com/sa-tasche/plantuml-encoding/commit/cd9e39eb95c682f6b15edb6c6f39253321628592) by [@jawira](https://github.com/jawira)
 
-## [v1.0.3] - 2018-02-21
+### Fixed
 
-* Badges were added to Readme
+*   **BREAKING** Cleaning repo & improving README.md. [a49b645](https://github.com/sa-tasche/plantuml-encoding/commit/a49b645d9dbe11d89b115d94c860a0d272ce3a1d) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #10 from jawira/cleaning-gitattributes. [8935130](https://github.com/sa-tasche/plantuml-encoding/commit/89351302cbcf4a32694f5e7dc30b7a94c9844513) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Remove any Phive reference. Closes #11. [0fac160](https://github.com/sa-tasche/plantuml-encoding/commit/0fac16059d411e803d9aaf1a0260efa244b256a1) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #12 from jawira/remove-phive. [df65624](https://github.com/sa-tasche/plantuml-encoding/commit/df6562457c272658b50e98a05daab3640be85ebf) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Prepare for v1.0.8. [cd9e39e](https://github.com/sa-tasche/plantuml-encoding/commit/cd9e39eb95c682f6b15edb6c6f39253321628592) by [@jawira](https://github.com/jawira)
 
-## [v1.0.2] - 2018-02-20
+### Security
 
-* Updated readme
-* Changed license in `composer.json` for a SPDX compliant license
-* Some dates in changelog were incorrect
-* Deleted composer.lock and added to .gitignore
+*   **BREAKING** Cleaning repo & improving README.md. [a49b645](https://github.com/sa-tasche/plantuml-encoding/commit/a49b645d9dbe11d89b115d94c860a0d272ce3a1d) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #10 from jawira/cleaning-gitattributes. [8935130](https://github.com/sa-tasche/plantuml-encoding/commit/89351302cbcf4a32694f5e7dc30b7a94c9844513) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Remove any Phive reference. Closes #11. [0fac160](https://github.com/sa-tasche/plantuml-encoding/commit/0fac16059d411e803d9aaf1a0260efa244b256a1) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Merge pull request #12 from jawira/remove-phive. [df65624](https://github.com/sa-tasche/plantuml-encoding/commit/df6562457c272658b50e98a05daab3640be85ebf) by [@jawira](https://github.com/jawira)
+*   **BREAKING** Prepare for v1.0.8. [cd9e39e](https://github.com/sa-tasche/plantuml-encoding/commit/cd9e39eb95c682f6b15edb6c6f39253321628592) by [@jawira](https://github.com/jawira)
 
-## [v1.0.1] - 2018-01-07
+## [v1.0.8](https://github.com/jawira/plantuml-encoding/compare/v1.0.7...v1.0.8) - 2020-10-01
 
-* Updated readme
+## [v1.0.7](https://github.com/jawira/plantuml-encodin/compare/v1.0.6...v1.0.7) - 2019-09-16
 
-## [v1.0.0] - 2018-01-07
+## [v1.0.6](https://github.com/jawira/plantuml-encodin/compare/v1.0.5...v1.0.6) - 2019-02-08
 
-* Internally, the `encodep` function encoded text to utf8, but this is not the case anymore.
-  Now `encodep` function assumes that received text is already utf8 encoded.
-* Updated readme
+## [v1.0.5](https://github.com/jawira/plantuml-encodin/compare/v1.0.4...v1.0.5) - 2018-03-26
 
-## [v0.1.0] - 2017-11-23
+## [v1.0.4](https://github.com/jawira/plantuml-encodin/compare/v1.0.3...v1.0.4) - 2018-03-26
 
-* Enhanced readme file
+## [v1.0.3](https://github.com/jawira/plantuml-encodin/compare/v1.0.2...v1.0.3) - 2018-02-21
 
-## [v0.0.1] - 2017-11-23
+## [v1.0.2](https://github.com/jawira/plantuml-encodin/compare/v1.0.1...v1.0.2) - 2018-02-20
 
-* Fixed example
+## [v1.0.1](https://github.com/jawira/plantuml-encodin/compare/v1.0.0...v1.0.1) - 2018-01-07
 
-## [v0.0.0] - 2017-11-23
+## [v1.0.0](https://github.com/jawira/plantuml-encodin/compare/v0.1.0...v1.0.0) - 2018-01-07
 
-* Initial working version
+## [v0.1.0](https://github.com/jawira/plantuml-encodin/compare/v0.0.1...v0.1.0) - 2017-11-23
 
-<!-- dumped content end -->
-
-[#8]: https://github.com/jawira/plantuml-encodin/pull/8
-[v1.0.5]: https://github.com/jawira/plantuml-encodin/compare/v1.0.4...v1.0.5
-[v1.0.4]: https://github.com/jawira/plantuml-encodin/compare/v1.0.3...v1.0.4
-[v1.0.3]: https://github.com/jawira/plantuml-encodin/compare/v1.0.2...v1.0.3
-[v1.0.2]: https://github.com/jawira/plantuml-encodin/compare/v1.0.1...v1.0.2
-[v1.0.1]: https://github.com/jawira/plantuml-encodin/compare/v1.0.0...v1.0.1
-[v1.0.0]: https://github.com/jawira/plantuml-encodin/compare/v0.1.0...v1.0.0
-[v0.1.0]: https://github.com/jawira/plantuml-encodin/compare/v0.0.1...v0.1.0
-[v0.0.1]: https://github.com/jawira/plantuml-encodin/compare/v0.0.0...v0.0.1
-[#7]: https://github.com/jawira/plantuml-encodin/pull/7
-[v1.0.6]: https://github.com/jawira/plantuml-encodin/compare/v1.0.5...v1.0.6
-[#9]: https://github.com/jawira/plantuml-encodin/pull/9
-[v1.0.7]: https://github.com/jawira/plantuml-encodin/compare/v1.0.6...v1.0.7
-[#12]: https://github.com/jawira/plantuml-encoding/pull/12
-[#11]: https://github.com/jawira/plantuml-encoding/pull/11
-[#10]: https://github.com/jawira/plantuml-encoding/pull/10
-[#4]: https://github.com/jawira/plantuml-encoding/pull/4
-[@jawira]: https://github.com/jawira
-[v1.0.8]: https://github.com/jawira/plantuml-encoding/compare/v1.0.7...v1.0.8
+## [v0.0.1](https://github.com/jawira/plantuml-encodin/compare/v0.0.0...v0.0.1) - 2017-11-23
